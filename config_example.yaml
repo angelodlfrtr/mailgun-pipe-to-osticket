@@ -1,0 +1,4 @@
+listen_addr: localhost:6789
+auth_token: CHANGE_ME
+ost_script_path: path/to/osticket/api/pipe.php
+ost_script_exec_timeout: 10s
