@@ -24,6 +24,8 @@ Then you can forward your emails to `http://your.server:port/somepathmime/?auth_
 
 **Important note**: Mailgun send the original mime message only when forward url ends with `mime`.
 
+See : https://documentation.mailgun.com/en/latest/user_manual.html#routes
+
 ## Build
 
 Run `make build`, binary generated to `build/mailgunostpiper`.
